@@ -24,47 +24,188 @@
 <a href="https://linkedin.com/in/hardik-jasani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hardik-jasani" height="30" width="40" /></a>
 </p>
 
+
+
+
+
 ## 🧰 Languages & Tools
 
-<p align="center">
-  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" height="50"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" height="50"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="50"/></a>
-  <a href="https://kubernetes.io" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" height="50"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" height="50"/></a>
-  <a href="https://grafana.com" target="_blank"><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" height="50"/></a>
-  <a href="https://prometheus.io/" target="_blank"><img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" height="50"/></a>
-  <a href="https://www.terraform.io/" target="_blank"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" height="50"/></a>
-  <a href="https://mlflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=mlflow" alt="MLflow" height="50"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" height="50"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" height="50"/></a>
-  <a href="https://www.perl.org/" target="_blank"><img src="https://skillicons.dev/icons?i=perl" alt="Perl" height="50"/></a>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.python.org" target="_blank">
+        <img src="https://skillicons.dev/icons?i=python" height="50"/>
+      </a><br/>Python
+    </td>
+    <td align="center">
+      <a href="https://pandas.pydata.org/" target="_blank">
+        <img src="https://techicons.dev/icons/pandas" height="50"/>
+      </a><br/>Pandas
+    </td>
+    <td align="center">
+      <a href="https://www.docker.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=docker" height="50"/>
+      </a><br/>Docker
+    </td>
+    <td align="center">
+      <a href="https://kubernetes.io" target="_blank">
+        <img src="https://skillicons.dev/icons?i=kubernetes" height="50"/>
+      </a><br/>Kubernetes
+    </td>
+    <td align="center">
+      <a href="https://www.linux.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linux" height="50"/>
+      </a><br/>Linux
+    </td>
+    <td align="center">
+      <a href="https://www.gnu.org/software/bash/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=bash" height="50"/>
+      </a><br/>Bash
+    </td>
+    <td align="center">
+      <a href="https://grafana.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=grafana" height="50"/>
+      </a><br/>Grafana
+    </td>
+    <td align="center">
+      <a href="https://prometheus.io/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=prometheus" height="50"/>
+      </a><br/>Prometheus
+    </td>
+    <td align="center">
+      <a href="https://www.terraform.io/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=terraform" height="50"/>
+      </a><br/>Terraform
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://mlflow.org/" target="_blank">
+        <img src="https://brandfetch.com/mlflow.org/logo" height="50"/>
+      </a><br/>MLflow
+    </td>
+    <td align="center">
+      <a href="https://pytorch.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=pytorch" height="50"/>
+      </a><br/>PyTorch
+    </td>
+    <td align="center">
+      <a href="https://www.tensorflow.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=tensorflow" height="50"/>
+      </a><br/>TensorFlow
+    </td>
+    <td align="center">
+      <a href="https://www.perl.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=perl" height="50"/>
+      </a><br/>Perl
+    </td>
+    <td align="center">
+      <a href="https://www.jenkins.io" target="_blank">
+        <img src="https://skillicons.dev/icons?i=jenkins" height="50"/>
+      </a><br/>Jenkins
+    </td>
+    <td align="center">
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=git" height="50"/>
+      </a><br/>Git
+    </td>
+    <td align="center">
+      <a href="https://postman.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=postman" height="50"/>
+      </a><br/>Postman
+    </td>
+    <td align="center">
+      <a href="https://github.com/features/actions" target="_blank">
+        <img src="https://skillicons.dev/icons?i=githubactions" height="50"/>
+      </a><br/>GitHub Actions
+    </td>
+    <td align="center">
+      <a href="https://circleci.com/" target="_blank">
+        <img src="https://techicons.dev/icons/circleci" height="50"/>
+      </a><br/>CircleCI
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://www.selenium.dev" target="_blank">
+        <img src="https://skillicons.dev/icons?i=selenium" height="50"/>
+      </a><br/>Selenium
+    </td>
+    <td align="center">
+      <a href="https://pytest.org/" target="_blank">
+        <img src="https://techicons.dev/icons/pytest" height="50"/>
+      </a><br/>Pytest
+    </td>
+    <td align="center">
+      <a href="https://playwright.dev/" target="_blank">
+        <img src="https://techicons.dev/icons/playwright" height="50"/>
+      </a><br/>Playwright
+    </td>
+    <td align="center">
+      <a href="https://cucumber.io/" target="_blank">
+        <img src="https://techicons.dev/icons/cucumber" height="50"/>
+      </a><br/>Cucumber
+    </td>
+    <td align="center">
+      <a href="https://developer.android.com" target="_blank">
+        <img src="https://techicons.dev/icons/android" height="50"/>
+      </a><br/>Android
+    </td>
+    <td align="center">
+      <a href="https://aws.amazon.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=aws" height="50"/>
+      </a><br/>AWS
+    </td>
+    <td align="center">
+      <a href="https://azure.microsoft.com/en-in/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=azure" height="50"/>
+      </a><br/>Azure
+    </td>
+    <td align="center">
+      <a href="https://firebase.google.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=firebase" height="50"/>
+      </a><br/>Firebase
+    </td>
+    <td align="center">
+      <a href="https://cloud.google.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=gcp" height="50"/>
+      </a><br/>GCP
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://www.java.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=java" height="50"/>
+      </a><br/>Java
+    </td>
+    <td align="center">
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+      </a><br/>MySQL
+    </td>
+    <td align="center">
+      <a href="https://www.postgresql.org" target="_blank">
+        <img src="https://skillicons.dev/icons?i=postgresql" height="50"/>
+      </a><br/>PostgreSQL
+    </td>
+    <td align="center">
+      <a href="https://redis.io" target="_blank">
+        <img src="https://skillicons.dev/icons?i=redis" height="50"/>
+      </a><br/>Redis
+    </td>
+  </tr>
+</table>
 
 
-  <a href="https://www.jenkins.io" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" height="50"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="50"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="50"/></a>
-  <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" height="50"/></a>
-  <a href="https://circleci.com/" target="_blank"><img src="https://skillicons.dev/icons?i=circleci" alt="CircleCI" height="50"/></a>
-  <a href="https://www.selenium.dev" target="_blank"><img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" height="50"/></a>
-  <a href="https://pytest.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytest" alt="Pytest" height="50"/></a>
-  <a href="https://playwright.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=playwright" alt="Playwright" height="50"/></a>
-  <a href="https://cucumber.io/" target="_blank"><img src="https://skillicons.dev/icons?i=cucumber" alt="Cucumber" height="50"/></a>
 
 
-  <a href="https://developer.android.com" target="_blank"><img src="https://skillicons.dev/icons?i=android" alt="Android" height="50"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="50"/></a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" alt="Azure" height="50"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="50"/></a>
-  <a href="https://cloud.google.com" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" alt="GCP" height="50"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" height="50"/></a>
 
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="50"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" height="50"/></a>
-  <a href="https://redis.io" target="_blank"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" height="50"/></a>
 
-</p>
+
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasanihardik&show_icons=true&locale=en&layout=compact" alt="jasanihardik" /></p>

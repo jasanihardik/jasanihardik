@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hardik Jasani</h1>
-<h3 align="center">  🧑‍💻 Software Developer in Test | DevOps Specialist | Open Source Enthusiast  </h3>
+<h3 align="center">  🧑‍💻 Software Developer in Test | DevOps Specialist | MLOps Enthusiast | GenAI Explorer </h3>
 <h3 align="center">  💡 Interests: Web, APIs, DevOps, Automation, Cloud, Docker, K8 </h3>
 <h3 align="center">  📍 Based in Calgary, Alberta, Canada  </h3>
 
@@ -9,13 +9,38 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **website automation using Selenium and Python**
 
-- 🌱 I’m currently learning **Python and PyTest Frameworks**
 
-- 👯 I’m looking to collaborate on **new ideas in software automation testing**
 
-- 💬 Ask me about **Python, Software Automation task based on Selenium**
+
+
+<div style="border:1px solid #dcdcdc; border-radius:10px; padding:20px; background-color:#f9f9f9; box-shadow: 0px 4px 12px rgba(0,0,0,0.1); margin-bottom:20px;">
+
+<h2>🔭 Current Work</h2>
+
+<p>Currently working on <strong>web automation</strong> and <strong>DevOps pipelines</strong> with a focus on efficiency, scalability, and cutting-edge technologies.</p>
+
+<ul>
+  <li><strong>Web Automation:</strong> Selenium, Cypress, Playwright, Python, PyTest</li>
+  <li><strong>CI/CD & DevOps:</strong> Jenkins, GitHub Actions, CircleCI</li>
+  <li><strong>Cloud & Containerization:</strong> Docker, Kubernetes, AWS, GCP, Azure</li>
+</ul>
+
+<h2>🌱 Learning & Exploring</h2>
+
+<ul>
+  <li>MLOps pipelines, AI/ML integration, and GenAI applications</li>
+  <li>Scalable DevOps & cloud solutions</li>
+</ul>
+
+<h2>👯 Collaboration Interests</h2>
+
+<ul>
+  <li>Software automation & testing</li>
+  <li>DevOps/MLOps workflows</li>
+  <li>AI-powered tools & innovative tech solutions</li>
+</ul>
+
 
 - 📫 How to reach me **jasanih382@gmail.com**
 

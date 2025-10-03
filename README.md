@@ -160,23 +160,23 @@
     </td>
     <td align="center">
       <a href="https://pytest.org/" target="_blank">
-        <img src="https://techicons.dev/icons/pytest" height="50"/>
+        <img src="assets/icons/pytest.png" height="50"/>
       </a><br/>Pytest
     </td>
     <td align="center">
       <a href="https://playwright.dev/" target="_blank">
-        <img src="https://techicons.dev/icons/playwright" height="50"/>
+        <img src="assets/icons/Playwright.png" height="50"/>
       </a><br/>Playwright
     </td>
     <td align="center">
       <a href="https://cucumber.io/" target="_blank">
-        <img src="https://techicons.dev/icons/cucumber" height="50"/>
+        <img src="assets/icons/cucumber.png" height="50"/>
       </a><br/>Cucumber
     </td>
     <td align="center">
       <a href="https://developer.android.com" target="_blank">
-        <img src="https://techicons.dev/icons/android" height="50"/>
-      </a><br/>Android
+        <img src="assets/icons/Android_Studio.png" height="50"/>
+      </a><br/>Android Studio
     </td>
     <td align="center">
       <a href="https://aws.amazon.com" target="_blank">

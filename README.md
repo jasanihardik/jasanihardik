@@ -147,7 +147,7 @@
     </td>
     <td align="center">
       <a href="https://circleci.com/" target="_blank">
-        <img src="https://techicons.dev/icons/circleci" height="50"/>
+        <img src="assets/icons/CircleCI.png" height="50"/>
       </a><br/>CircleCI
     </td>
   </tr>

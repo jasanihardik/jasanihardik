@@ -233,8 +233,19 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasanihardik&show_icons=true&locale=en&layout=compact" alt="jasanihardik" /></p>
+<div align="center">
+  <!-- Top Languages Used -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasanihardik&layout=compact&langs_count=8&theme=react" 
+       alt="Top Languages" height="180" style="margin-right:10px; object-fit:contain;" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasanihardik&show_icons=true&locale=en" alt="jasanihardik" /></p>
+  <!-- Total Contributions -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jasanihardik&show_icons=true&count_private=true&theme=react" 
+       alt="Total Contributions" height="180" style="margin-right:10px; object-fit:contain;" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasanihardik&" alt="jasanihardik" /></p>
+  <!-- Streak or Recent Activity -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasanihardik&theme=react&date_format=M%20j%5B%2C%20Y%5D" 
+       alt="Contribution Streak" height="180" style="object-fit:contain;" />
+</div>
+
+
+

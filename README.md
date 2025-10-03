@@ -64,7 +64,7 @@
     </td>
     <td align="center">
       <a href="https://pandas.pydata.org/" target="_blank">
-        <img src="assets/icons/pandas.svg" height="50"/>
+        <img src="assets/pandas.svg" height="50"/>
       </a><br/>Pandas
     </td>
     <td align="center">

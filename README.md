@@ -170,7 +170,7 @@
     </td>
     <td align="center">
       <a href="https://cucumber.io/" target="_blank">
-        <img src="assets/icons/cucumber.png" height="50"/>
+        <img src="assets/icons/Cucumber.png" height="50"/>
       </a><br/>Cucumber
     </td>
     <td align="center">

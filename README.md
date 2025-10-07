@@ -107,7 +107,7 @@
   <tr>
     <td align="center">
       <a href="https://mlflow.org/" target="_blank">
-        <img src="https://brandfetch.com/mlflow.org/logo" height="50"/>
+        <img src="assets/icons/mlflow.png" height="50"/>
       </a><br/>MLflow
     </td>
     <td align="center">

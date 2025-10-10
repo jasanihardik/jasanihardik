@@ -29,7 +29,7 @@
 <h2>🌱 Learning & Exploring</h2>
 
 <ul>
-  <li>MLOps pipelines, AI/ML integration, and GenAI applications</li>
+  <li>MLOps pipelines, AI/ML integration, ML Model Trainings and GenAI applications</li>
   <li>Scalable DevOps & cloud solutions</li>
 </ul>
 
